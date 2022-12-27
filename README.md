@@ -1,5 +1,8 @@
-# Olá, prazer sou Matheus Nunes!
+# Olá, prazer 🐱‍👤
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=0XxMxX0.0XxMxX0)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 ### Bem vindo ao meu perfil GitHub 👋
+
 
 # Onde Trabalho 🔭
 ### Atualmente trabalho com customer success e como TI em uma escola aqui no Rio de Janeiro-BR.
