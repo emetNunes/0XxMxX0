@@ -59,6 +59,9 @@
 ### Top projetos
  
 #### Front-End
+<a href="https://github.com/0XxMxX0/todo-list-js">
+  <img align="center" height='110em' src="https://github-readme-stats.vercel.app/api/pin/?username=0XxMxX0&repo=todo-list-js&theme=dracula" />
+</a>
 <a href="https://github.com/0XxMxX0/pagina_de_conteudo">
   <img align="center" height='110em' src="https://github-readme-stats.vercel.app/api/pin/?username=0XxMxX0&repo=pagina_de_conteudo&theme=dracula" />
 </a>
