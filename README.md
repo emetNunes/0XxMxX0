@@ -1,5 +1,6 @@
 # Olá, prazer Matheus Nunes!
 ## Bem vindo ao meu perfil GitHub 👋
+<img width='20' src="vatar.png" />
 
 # Trabalho 🔭
 ### Atualmente trabalho com customer success e como TI em uma escola aqui no Rio de Janeiro-BR.
