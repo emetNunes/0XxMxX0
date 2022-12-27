@@ -1,6 +1,5 @@
 # Olá, prazer Matheus Nunes!
 ## Bem vindo ao meu perfil GitHub 👋
-<img src="avatar.png" />
 
 # Trabalho 🔭
 ### Atualmente trabalho com customer success e como TI em uma escola aqui no Rio de Janeiro-BR.
@@ -67,6 +66,8 @@
 # Ajudas e colaborações 👯
 ### Se quiser desenvolver um projeto comigo estarei a disposição, vamos se ajudar a constuir coisas incriveis juntos... Vamos nessa!!!
 ## Tenho experiencia em construção de landing page, paginas de captura e sistemas de logins com validação ao banco de dados.
+![Snake animation](https://github.com/0XxMxX0/0XxMxX0/blob/output/github-contribution-grid-snake.svg)
+
 
 # Contato 📫
 ### Me interreso muito em fazer network com outros devs, então não perca tempo me chama pra gente trocar uma ideia 😉!
