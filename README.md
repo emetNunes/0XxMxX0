@@ -90,9 +90,6 @@
   
 ![Snake animation](https://github.com/0XxMxX0/0XxMxX0/blob/output/github-contribution-grid-snake.svg)
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
 # Contato 📫
 #### Me interesso muito em fazer networking com outros devs, então não perca tempo me chama pra gente trocar uma ideia 😉!
 <div>
