@@ -1,10 +1,10 @@
-# Olá, prazer Matheus Nunes!
-## Bem vindo ao meu perfil GitHub 👋
+# Olá, prazer sou Matheus Nunes!
+### Bem vindo ao meu perfil GitHub 👋
 
-# Trabalho 🔭
+# Onde Trabalho 🔭
 ### Atualmente trabalho com customer success e como TI em uma escola aqui no Rio de Janeiro-BR.
 
-# Estudos 🌱
+# Meus Estudos 🌱
 ### Estou bastante focado no desenvolvimento web atualmente e como não pode faltar estou bastante empenhado na linguagen JavaScript, mas pretendo meus proximos passos são:
 
 <ul>
