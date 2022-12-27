@@ -1,7 +1,11 @@
 # Olá, prazer 🐱‍👤
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=0XxMxX0.0XxMxX0)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-### Bem vindo ao meu perfil GitHub 👋
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Bem-vindo(a)%20ao%20meu%20GitHub%20👋;Full-Stack%20web%20developer ;Sempre%20aprendendo%20novas%20coisas%20🤓&font=Fira%20Code&center=true&width=440&height=45&color=FFFe&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 
 # Onde Trabalho 🔭
