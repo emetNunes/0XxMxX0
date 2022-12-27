@@ -86,12 +86,13 @@
 
 # Ajudas e colaborações 👯
 #### Se quiser desenvolver um projeto comigo estarei a disposição, vamos se ajudar a constuir coisas incriveis juntos... Vamos nessa!!!
-## Tenho experiencia em construção de landing page, paginas de captura e sistemas de logins com validação ao banco de dados.
+### Tenho experiencia em construção de landing page, paginas de captura e sistemas de logins com validação ao banco de dados.
+  
 ![Snake animation](https://github.com/0XxMxX0/0XxMxX0/blob/output/github-contribution-grid-snake.svg)
 
 
 # Contato 📫
-#### Me interreso muito em fazer network com outros devs, então não perca tempo me chama pra gente trocar uma ideia 😉!
+#### Me interesso muito em fazer networking com outros devs, então não perca tempo me chama pra gente trocar uma ideia 😉!
 <div>
 <a href = "mailto:nunesrico2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheus-nunes-desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
