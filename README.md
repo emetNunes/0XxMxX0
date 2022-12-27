@@ -9,10 +9,10 @@
 
 
 # Onde Trabalho 🔭
-### Atualmente trabalho com customer success e como TI em uma escola aqui no Rio de Janeiro-BR.
+#### Atualmente trabalho com customer success e como TI em uma escola aqui no Rio de Janeiro-BR.
 
 # Meus Estudos 🌱
-### Estou bastante focado no desenvolvimento web atualmente e como não pode faltar estou bastante empenhado na linguagen JavaScript, mas pretendo meus proximos passos são:
+#### Estou bastante focado no desenvolvimento web atualmente e como não pode faltar estou bastante empenhado na linguagen JavaScript, mas pretendo meus proximos passos são:
 
 <ul>
 <li>Firebase <img width='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
@@ -29,30 +29,40 @@
 </li>
 </ul>
 
-### Hoje faço cursos de desenvolvimento web e faculdade de ciencia da computação 🤓 para me expecializar cada vez mais e mais.
+#### Hoje faço cursos de desenvolvimento web e faculdade de ciencia da computação 🤓 para me expecializar cada vez mais e mais.
 
-# Jobs e expeciencias ⚡
-### Como estou focado no desenvolvimento web, tenho alguma bagagem significativa na aréa, mas acredito que ainda estou bem longeee do pretendido por mim e pelo mercado, devido a isso, o foco é constante ☕.
+# Jobs e experiências ⚡
+#### Como estou focado no desenvolvimento web, tenho alguma bagagem significativa na aréa, mas acredito que ainda estou bem longeee do pretendido por mim e pelo mercado, devido a isso, o foco é constante ☕.
 
-## Linguagens que tenho experiencia
+### Linguagens que tenho experiencia
 <ul>
-<li>JavaScript <img width='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<li>JavaScript
 </li>
-<li>PHP Estrutural e Orientado a objeto <img width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
+<li>PHP Estrutural e Orientado a objeto
 </li>
 </ul>
 
-## Bancos que tenho experiencia
+### Bancos que tenho experiencia
 <ul>
 <li>SQL Wrokbench
 </li>
 <li>SQL Server</li>
 </ul>
 
+### Top projetos
+<a href="https://github.com/0XxMxX0/pagina_de_conteudo">
+  <img align="center" height='110em' src="https://github-readme-stats.vercel.app/api/pin/?username=0XxMxX0&repo=pagina_de_conteudo&theme=dracula" />
+</a>
+<a href="https://github.com/0XxMxX0/pagina_de_conteudo">
+  <img align="center" height='110em' src="https://github-readme-stats.vercel.app/api/pin/?username=0XxMxX0&repo=pagina_de_conteudo&theme=dracula" />
+</a>
+
+
 ## Estatísticas GitHub 📊
 <div>
 <a href="https://github.com/0XxMxX0">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0XxMxX0&layout=compact&langs_count=7&theme=dracula"/><img height="150em"src="https://github-readme-stats.vercel.app/api?username=0XxMxX0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0XxMxX0&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em"src="https://github-readme-stats.vercel.app/api?username=0XxMxX0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Metodologia e soft-skills
@@ -70,13 +80,13 @@
 
 
 # Ajudas e colaborações 👯
-### Se quiser desenvolver um projeto comigo estarei a disposição, vamos se ajudar a constuir coisas incriveis juntos... Vamos nessa!!!
+#### Se quiser desenvolver um projeto comigo estarei a disposição, vamos se ajudar a constuir coisas incriveis juntos... Vamos nessa!!!
 ## Tenho experiencia em construção de landing page, paginas de captura e sistemas de logins com validação ao banco de dados.
 ![Snake animation](https://github.com/0XxMxX0/0XxMxX0/blob/output/github-contribution-grid-snake.svg)
 
 
 # Contato 📫
-### Me interreso muito em fazer network com outros devs, então não perca tempo me chama pra gente trocar uma ideia 😉!
+#### Me interreso muito em fazer network com outros devs, então não perca tempo me chama pra gente trocar uma ideia 😉!
 <div>
 <a href = "mailto:nunesrico2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheus-nunes-desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
