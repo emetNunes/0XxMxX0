@@ -49,22 +49,26 @@
 <li>SQL Server</li>
 </ul>
 
-### Top projetos
-<a href="https://github.com/0XxMxX0/pagina_de_conteudo">
-  <img align="center" height='110em' src="https://github-readme-stats.vercel.app/api/pin/?username=0XxMxX0&repo=pagina_de_conteudo&theme=dracula" />
-</a>
-<a href="https://github.com/0XxMxX0/pagina_de_conteudo">
-  <img align="center" height='110em' src="https://github-readme-stats.vercel.app/api/pin/?username=0XxMxX0&repo=pagina_de_conteudo&theme=dracula" />
-</a>
-
-
-## Estatísticas GitHub 📊
+### Estatísticas GitHub 📊
 <div>
 <a href="https://github.com/0XxMxX0">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0XxMxX0&layout=compact&langs_count=7&theme=dracula"/>
 <img height="150em"src="https://github-readme-stats.vercel.app/api?username=0XxMxX0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+### Top projetos
+#### Front-End
+<a href="https://github.com/0XxMxX0/pagina_de_conteudo">
+  <img align="center" height='110em' src="https://github-readme-stats.vercel.app/api/pin/?username=0XxMxX0&repo=pagina_de_conteudo&theme=dracula" />
+</a>
+<a href="https://github.com/0XxMxX0/Copia-Model">
+  <img align="center" height='110em' src="https://github-readme-stats.vercel.app/api/pin/?username=0XxMxX0&repo=Copia-Model&theme=dracula" />
+</a>
+<br>
 
+#### Back-End
+  
+  
 ## Metodologia e soft-skills
 <ul>
 <li>Codigo limpo - O livro codigo limpo foi a minha expiração aqui rsrs</li>
