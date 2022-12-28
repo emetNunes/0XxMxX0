@@ -12,8 +12,24 @@
 #### Atualmente trabalho com customer success e como TI em uma escola aqui no Rio de Janeiro-BR.
 
 # Meus Estudos 🌱
-#### Estou bastante focado no desenvolvimento web atualmente e como não pode faltar estou bastante empenhado na linguagen JavaScript, mas pretendo meus proximos passos são:
+#### Estou bastante focado no desenvolvimento web atualmente e como não pode faltar estou bastante empenhado em me desenvolver cada vez mais.
 
+### Linguagens que tenho experiencia
+<ul>
+<li>JavaScript
+</li>
+<li>PHP Estrutural e Orientado a objeto
+</li>
+</ul>
+
+### Bancos que tenho experiencia
+<ul>
+<li>SQL Wrokbench
+</li>
+<li>SQL Server</li>
+</ul>
+
+### Tecnologias que pretendo aprender
 <ul>
 <li>Firebase <img width='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </li>
@@ -34,20 +50,6 @@
 # Jobs e experiências ⚡
 #### Como estou focado no desenvolvimento web, tenho alguma bagagem significativa na aréa, mas acredito que ainda estou bem longeee do pretendido por mim e pelo mercado, devido a isso, o foco é constante ☕.
 
-### Linguagens que tenho experiencia
-<ul>
-<li>JavaScript
-</li>
-<li>PHP Estrutural e Orientado a objeto
-</li>
-</ul>
-
-### Bancos que tenho experiencia
-<ul>
-<li>SQL Wrokbench
-</li>
-<li>SQL Server</li>
-</ul>
 
 ### Estatísticas GitHub 📊
 <div>
