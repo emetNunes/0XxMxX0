@@ -78,6 +78,7 @@
 ## Metodologia e soft-skills
 <ul>
 <li>Codigo limpo - O livro codigo limpo foi a minha expiração aqui rsrs</li>
+<li>Versionamento com GitHub</li>
 <li>TTD - Desenvolvimento orientado a testes unilaterais</li>
 <li>Capaz de aprender e reaprender coisas novas</li>
 <li>Focado</li>
