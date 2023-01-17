@@ -78,6 +78,9 @@
 <a href="https://github.com/0XxMxX0/medtech-sistema-de-login">
   <img align="center" height='138em' src="https://github-readme-stats.vercel.app/api/pin/?username=0XxMxX0&repo=medtech-sistema-de-login&theme=dracula" />
 </a>  
+<a href="https://github.com/0XxMxX0/techstore---marketplace">
+  <img align="center" height='138em' src="https://github-readme-stats.vercel.app/api/pin/?username=0XxMxX0&repo=techstore---marketplace&theme=dracula" />
+</a>  
   
 ## Metodologia e soft-skills
 <ul>
