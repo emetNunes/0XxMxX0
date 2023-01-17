@@ -54,32 +54,32 @@
 ### Estatísticas GitHub 📊
 <div>
 <a href="https://github.com/0XxMxX0">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0XxMxX0&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em"src="https://github-readme-stats.vercel.app/api?username=0XxMxX0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0XxMxX0&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em"src="https://github-readme-stats-sigma-five.vercel.app/api?username=0XxMxX0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 ### Top projetos
  
 #### Front-End
 <a href="https://github.com/0XxMxX0/todo-list-js">
-  <img align="center" height='138em' src="https://github-readme-stats.vercel.app/api/pin/?username=0XxMxX0&repo=todo-list-js&theme=dracula" />
+  <img align="center" height='138em' src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0XxMxX0&repo=todo-list-js&theme=dracula" />
 </a>
 <br><br>
 <a href="https://github.com/0XxMxX0/pagina_de_conteudo">
-  <img align="center" height='110em' src="https://github-readme-stats.vercel.app/api/pin/?username=0XxMxX0&repo=pagina_de_conteudo&theme=dracula" />
+  <img align="center" height='110em' src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0XxMxX0&repo=pagina_de_conteudo&theme=dracula" />
 </a>
 <br><br>
 <a href="https://github.com/0XxMxX0/Copia-Model">
-  <img align="center" height='110em' src="https://github-readme-stats.vercel.app/api/pin/?username=0XxMxX0&repo=Copia-Model&theme=dracula" />
+  <img align="center" height='110em' src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0XxMxX0&repo=Copia-Model&theme=dracula" />
 </a>
 <br>
 
 #### Back-End
 <a href="https://github.com/0XxMxX0/medtech-sistema-de-login">
-  <img align="center" height='138em' src="https://github-readme-stats.vercel.app/api/pin/?username=0XxMxX0&repo=medtech-sistema-de-login&theme=dracula" />
+  <img align="center" height='138em' src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0XxMxX0&repo=medtech-sistema-de-login&theme=dracula" />
 </a>  
 <a href="https://github.com/0XxMxX0/techstore---marketplace">
-  <img align="center" height='138em' src="https://github-readme-stats.vercel.app/api/pin/?username=0XxMxX0&repo=techstore---marketplace&theme=dracula" />
+  <img align="center" height='138em' src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0XxMxX0&repo=techstore---marketplace&theme=dracula" />
 </a>  
   
 ## Metodologia e soft-skills
