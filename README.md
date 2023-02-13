@@ -18,7 +18,9 @@
 <ul>
 <li>JavaScript
 </li>
-<li>PHP Estrutural e Orientado a objeto
+<li>PHP Orientado a objeto
+</li>
+<li>PHP com integração ao Ajax
 </li>
 </ul>
 
@@ -31,16 +33,6 @@
 
 ### Tecnologias que pretendo aprender
 <ul>
-<li>Firebase <img width='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-</li>
-<li>Boostrap <img width='20'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-</li>
-<li>React JS <img width='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</li>
-<li>Node JS <img width='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</li>
-<li>Angular JS <img width='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-</li>
 <li>Laravel framework <img width='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 </li>
 </ul>
@@ -60,20 +52,6 @@
   
 ### Top projetos
  
-#### Front-End
-<a href="https://github.com/0XxMxX0/todo-list-js">
-  <img align="center" height='138em' src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0XxMxX0&repo=todo-list-js&theme=dracula" />
-</a>
-<br><br>
-<a href="https://github.com/0XxMxX0/pagina_de_conteudo">
-  <img align="center" height='110em' src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0XxMxX0&repo=pagina_de_conteudo&theme=dracula" />
-</a>
-<br><br>
-<a href="https://github.com/0XxMxX0/Copia-Model">
-  <img align="center" height='110em' src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0XxMxX0&repo=Copia-Model&theme=dracula" />
-</a>
-<br>
-
 #### Back-End
 <a href="https://github.com/0XxMxX0/medtech-sistema-de-login">
   <img align="center" height='138em' src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0XxMxX0&repo=medtech-sistema-de-login&theme=dracula" />
