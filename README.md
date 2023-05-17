@@ -8,8 +8,8 @@
 </p>
 
 
-# Onde Trabalho 🔭
-#### Atualmente trabalho com TI e como desenvolvimento php em uma escola aqui no Rio de Janeiro-BR.
+# Meu foco 🔭
+#### Atualmente trabalho com Desenvolvimento PHP POO com padrão MVC com foco no desenvolvimento de sistemas web.
 
 # Meus Estudos 🌱
 #### Estou bastante focado no desenvolvimento web atualmente e como não pode faltar estou bastante empenhado em me desenvolver cada vez mais.
