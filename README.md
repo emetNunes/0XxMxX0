@@ -1,4 +1,4 @@
-# Olá, prazer 🐱‍👤
+# Olá, prazer!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=0XxMxX0.0XxMxX0)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 <p align="center">
@@ -18,9 +18,7 @@
 <ul>
 <li>JavaScript
 </li>
-<li>PHP Orientado a objeto
-</li>
-<li>PHP com integração ao Ajax
+<li>PHP Orientado a objeto com padrão MVC
 </li>
 </ul>
 
