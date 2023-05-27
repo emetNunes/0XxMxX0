@@ -51,8 +51,8 @@
 ### Top projetos
  
 #### Back-End
-<a href="https://github.com/0XxMxX0/medtech-sistema-de-login">
-  <img align="center" height='138em' src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0XxMxX0&repo=medtech-sistema-de-login&theme=dracula" />
+<a href="https://github.com/0XxMxX0/registro_vendas">
+  <img align="center" height='138em' src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0XxMxX0&repo=registro_vendas&theme=dracula" />
 </a>  
 <a href="https://github.com/0XxMxX0/techstore---marketplace">
   <img align="center" height='138em' src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=0XxMxX0&repo=techstore---marketplace&theme=dracula" />
