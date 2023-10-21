@@ -1,45 +1,36 @@
-# Olá, prazer!
+# Hello Dev's!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=0XxMxX0.0XxMxX0)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Bem-vindo(a)%20ao%20meu%20GitHub%20👋;Full-Stack%20web%20developer ;Sempre%20aprendendo%20novas%20coisas%20🤓&font=Fira%20Code&center=true&width=440&height=45&color=FFFe&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Bem-vindo(a)%20ao%20meu%20GitHub%20👋;Back-End%20developer;Sempre%20aprendendo%20novas%20coisas%20🤓&font=Fira%20Code&center=true&width=440&height=45&color=FFFe&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
-
 # Meu foco 🔭
-#### Atualmente trabalho com Desenvolvimento PHP POO com padrão MVC com foco no desenvolvimento de sistemas web.
+#### Atualmente trabalho com Desenvolvimento PHP POO com padrão MVC<br>com foco no desenvolvimento de sistemas Back-End.
 
 # Meus Estudos 🌱
-#### Estou bastante focado no desenvolvimento web atualmente e como não pode faltar estou bastante empenhado em me desenvolver cada vez mais.
+#### Estou bastante empenhado em me expecializar em PHP, pois pretendo usar todo o potencial dessa poderosa ferramenta.
 
-### Linguagens que tenho experiencia
+### Linguagens domindas
 <ul>
-<li>JavaScript
-</li>
-<li>PHP Orientado a objeto com padrão MVC
-</li>
+<li>PHP Orientado a objeto + padrão MVC</li>
 </ul>
 
-### Bancos que tenho experiencia
+### Bancos de dados Dominados
 <ul>
-<li>SQL Wrokbench
-</li>
-<li>SQL Server</li>
+<li>SQL Wrokbench</li>
 </ul>
 
-### Tecnologias que pretendo aprender
+### Tecnologias que estou aprendendo
 <ul>
-<li>Laravel framework <img width='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-</li>
+<li>Laravel framework <img width='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /></li>
 </ul>
 
-#### Hoje faço cursos de desenvolvimento web e faculdade de ciencia da computação 🤓 para me expecializar cada vez mais e mais.
+#### NOTA: Hoje faço cursos voltados ao desenvolvimento PHP para me capacitar ainda mais.
 
 # Jobs e experiências ⚡
-#### Como estou focado no desenvolvimento web, tenho alguma bagagem significativa na aréa, mas acredito que ainda estou bem longeee do pretendido por mim e pelo mercado, devido a isso, o foco é constante ☕.
+#### Como estou focado no desenvolvimento Back-End PHP☕.
 
 
 ### Estatísticas GitHub 📊
@@ -63,7 +54,7 @@
 <ul>
 <li>Codigo limpo - O livro codigo limpo foi a minha expiração aqui rsrs</li>
 <li>Versionamento com GitHub</li>
-<li>TTD - Desenvolvimento orientado a testes unilaterais</li>
+<li>Desenvolvimento PHP</li>
 <li>Capaz de aprender e reaprender coisas novas</li>
 <li>Focado</li>
 <li>Determinado</li>
@@ -73,15 +64,11 @@
 <li>Sede de desafios e novas oportunidades</li>
 </ul>
 
-
 # Ajudas e colaborações 👯
-#### Se quiser desenvolver um projeto comigo estarei a disposição, vamos se ajudar a constuir coisas incriveis juntos... Vamos nessa!!!
-### Tenho experiencia em construção de landing page, paginas de captura e sistemas de logins com validação ao banco de dados.
-  
-![Snake animation](https://github.com/0XxMxX0/0XxMxX0/blob/output/github-contribution-grid-snake.svg)
+#### Se quiser desenvolver um projeto comigo estarei a disposição, vamos juntos constuir features incriveis... Vamos nessa!!!
 
 # Contato 📫
-#### Me interesso muito em fazer networking com outros devs, então não perca tempo me chama pra gente trocar uma ideia 😉!
+#### Me interesso muito em fazer networking com outros devs, então não perca tempo me chama pra gente trocar uma ideia😉!
 <div>
 <a href = "mailto:nunesrico2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheus-nunes-desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
