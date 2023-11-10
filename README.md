@@ -15,6 +15,7 @@
 ### Linguagens domindas
 <ul>
 <li>PHP Orientado a objeto + padrão MVC</li>
+<li>Laravel framework <img width='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /></li>
 </ul>
 
 ### Bancos de dados Dominados
@@ -24,7 +25,7 @@
 
 ### Tecnologias que estou aprendendo
 <ul>
-<li>Laravel framework <img width='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /></li>
+....
 </ul>
 
 #### NOTA: Hoje faço cursos voltados ao desenvolvimento PHP para me capacitar ainda mais.
